@@ -15,7 +15,11 @@ I hold several professional certifications (full list available on my [Credly pr
 - CompTIA Security+
 - Cisco CyberOps Associate
 - Cisco Ethical Hacker  
-- EC-Council Ethical Hacking Essentials (EHE)  
+- EC-Council Ethical Hacking Essentials (EHE)
+- EC-Council Digital Forensics Essentials (DFE)
+- EC-Council Network Defense Essentials (NDE)
+- Mastermind Assurance ISO/IEC 27001:2022 Lead Auditor
+- XM Cyber Exposure Management Expert
 - ...and more!
 
 ---
