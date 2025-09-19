@@ -1,10 +1,13 @@
 # Hi there 👋, I'm eth08
 
-## 🧑‍💻 Cybersecurity Analyst & Software Developer
+💻 **Cybersecurity Analyst & Software Developer** with 15+ years in IT  
+🔐 Background in **secure software, networks, and databases**  
+⚔️ Currently transitioning into **offensive security & ethical hacking**:  
+- Penetration testing & red teaming  
+- Vulnerability research & exploit development  
+- Proactive defense through attacker’s mindset  
 
-- 🔐 15+ years of experience in the IT sector  
-- 🛡 Specialized in: cybersecurity, software development, networks, and databases
-- 💻 Passionate about building secure and efficient software systems, I continuously update my skills to safeguard digital resources, mitigate cybersecurity risks, and enhance customers' security posture
+I believe the best defense starts with **thinking like an attacker**.
 
 ---
 
