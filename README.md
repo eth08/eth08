@@ -1,19 +1,14 @@
 # Hi there 👋, I'm eth08
 
-💻 **Cybersecurity Analyst & Software Developer** with 15+ years in IT  
-🔐 Strong background in **secure software, networks, and databases**  
-⚔️ Currently transitioning into **offensive security & ethical hacking**:  
-- Penetration testing & red teaming  
-- Vulnerability research & exploit development  
-- Proactive defense through attacker’s mindset  
-
-> 🛡️ I believe the best defense starts with **thinking like an attacker**.  
+- Offensive Security Practitioner with a technical background in software development and networking.
+- Hands-on experience in penetration testing, web/network exploitation, privilege escalation, lateral movement, OSINT, vulnerability assessment and security testing across labs and real-world simulations.
+- Focused on Offensive Security methodologies, TTPs, MITRE ATT&CK, red team techniques and continuous skill-building through CTFs, hands-on labs and realistic scenarios.
 
 ---
 
 ## 🏆 Certifications  
 
-I hold several professional certifications (full list available on my [Credly profile](https://www.credly.com/users/giuseppelapaglia/)):  
+I hold several professional certifications (full list available on my [Credly profile](https://www.credly.com/users/giuseppelapaglia/) and [website](https://www.giuseppelapaglia.com/)):  
 
 ![Hackviser](https://img.shields.io/badge/Hackviser-Certified%20Associate%20Penetration%20Tester-107C10)  
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8102E)  
@@ -37,13 +32,9 @@ I hold several professional certifications (full list available on my [Credly pr
 
 ---
 
-### 🛡 Security Mottos
+### 🛡 Security Motto
 
-- *"Security is a mindset, not a feature."*
-- *"You can’t protect what you don’t understand."*
-- *"Prevention is cheaper than recovery."*
-- *"The weakest link defines the strength of the chain."*
-- *"Every system is secure… until it’s not."*
+- *"Attack like an adversary, think like a defender."*
 
 ---
 
