@@ -10,7 +10,9 @@
 
 I hold several professional certifications (full list available on my [Credly profile](https://www.credly.com/users/giuseppelapaglia/) and [website](https://www.giuseppelapaglia.com/)):  
 
+![Hackviser](https://img.shields.io/badge/Hackviser-Certified%20Web%20Security%20Expert-107C10)  
 ![Hackviser](https://img.shields.io/badge/Hackviser-Certified%20Associate%20Penetration%20Tester-107C10)  
+![Red Team Leaders](https://img.shields.io/badge/Red%20Team%20Leaders-Certified%20Cybersecurity%20Educator%20Professional-0B5394)  
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8102E)  
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8102E)  
 ![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco-CyberOps%20Associate-00B5E8)  
