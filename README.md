@@ -1,4 +1,4 @@
-# Hi there 👋, I'm eth08
+# Hi there 👋, I'm Giuseppe (eth08)
 
 - Offensive Security Practitioner with a technical background in software development and networking.
 - Hands-on experience in penetration testing, web/network exploitation, privilege escalation, lateral movement, OSINT, vulnerability assessment and security testing across labs and real-world simulations.
