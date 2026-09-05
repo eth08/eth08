@@ -8,7 +8,7 @@
 
 ## 🏆 Certifications  
 
-I hold several professional certifications (full list available on my [Credly profile](https://www.credly.com/users/giuseppelapaglia/) and [website](https://www.giuseppelapaglia.com/)):  
+I hold several professional certifications (full list available on my [Credly profile](https://www.credly.com/users/giuseppelapaglia/), [website](https://www.giuseppelapaglia.com/) and [blog](https://eth08.iblogger.org/)):  
 
 ![Hackviser](https://img.shields.io/badge/Hackviser-Certified%20Web%20Security%20Expert-107C10)  
 ![Hackviser](https://img.shields.io/badge/Hackviser-Certified%20Associate%20Penetration%20Tester-107C10)  
