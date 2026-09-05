@@ -36,7 +36,7 @@ I hold several professional certifications (full list available on my [Credly pr
 
 ### 🛡 Security Motto
 
-- *"Attack like an adversary, think like a defender."*
+- *"Red Team tactics. Blue Team mindset. Purple Team execution."*
 
 ---
 
